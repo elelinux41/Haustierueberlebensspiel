@@ -1,0 +1,70 @@
+Willkommen beim Haustierueberlebensspielhandbuch.
+
+Hier finden sie alle Befehle und Regeln ueber das Spiel.
+
+Im Haustierueberlebensspiel kannst du den Hund, die Katze oder die Fische deiner Nachbarn kuemmern. 
+Diese musst du dann fuettern, jede Tierart hat auch noch eine eigen Aktion, die du mit ihr machen musst,
+so musst du mit Hunden zum Beispiel Gassi gehen. Das Haustier deiner Nachbarn kann auch erkranken,
+dann musst du zum Tierarzt gehen.
+
+Am Anfang des Spiels fragt dich das Game, welche Spielvariante du Spielen willst,
+folgende Befehle kannst du eingeben:
+
+-standard(s):            Du spielst mit den Standardeinstellungen
+-benutzerdefiniert(b):   Du kannst festlegen wie dein Tier heisst, wie lange du dein Tier betreuen will 
+                            und welche Art von Tier du berteuen willst, solltest du keinen Namen eingeben,
+                            wird ein Zufaelliger gewaehlt
+-aus(a):                 Das Spiel wird abgebrochen
+-handbuch(t):            Dir wird das Handbuch angezeigt
+-einstellungen(e):       Du kannst die Standardeinstellungen ändern
+-hilfe(h):               Dir werden alle moeglichen Befehle angezeigt
+
+Du musst dein Tier alle 1,5 Tage Fuettern sonst muss es zum Tierarzt, wenn du dein Tier gleich 3 Tage
+nicht fuetterst stirbt es, wenn du deine Tiere zwei mal in einer Stunde fuetterst sind sie ueberfressen
+und mussen auch zum Tierarzt, Fische müssen nicht zum Tierarzt, in beiden eben genannten Fällen sterben
+aber ein paar von ihnen.
+Um deine Tiere fuettern zu koennen, musst du Futter kaufen.
+-eine Futterportion kostet 15E
+
+Damit die Zeit vergeht musst du warten schreiben, im Anschluss fragt dich das Programm wie lange.
+
+Alle 2 Tage musst du mit je nach Tierart eine bestimmte Aktion durchfuehren, mit Hunden musst du Gassi 
+gehen, Katzen musst du streicheln und bei Fischen musst du das Aquariumwasser wechseln. Diese Aktionen
+kosten kein Geld, wenn diese allerdings nicht nach diesen vorgegebenen 2 Tagen machst reissen dir die
+Tiere aus, Fische ersticken in ihrem Aquarium
+
+Am Anfang des Spiels wurde dein vor 2 Stunden das letzte Mal gefuettert und auch vor 2 Stunden wurde
+das letzte Mal Gassi mit dem Hund gegangen, die Katze gefuettert oder das Aquariumwasser gewechselt.
+
+Du kannst maximal 3 mal mit deinem Tier zum Tierarzt, wenn dein Tier zum vierten mal zum Tierarzt
+gehen muss stirbt es. Solltest du kein Geld haben um zum Tierarzt zu gehen stibt dein Tier ebenfalls.
+-ein Tierarztbesuch kostet 45E
+
+Mit einer Wahrscheinlichkeit von 1,43% pro Befehl kann dein Tier auch krank werden. Dein Tier kann
+auch mit einer Wahrscheinlichkeit von 0,14% pro Befehl an altersschwaeche sterben.
+
+Alle moeglichen Befehle:
+-aus                Spiel wird beendet
+-hilfe              Es werden alle Befehle angezeigt
+-regeln             Es werden die Spielregeln angezeigt
+-fuettern           Du fuetterst dein Tier
+-warten             Du laesst die Zeit vergehen
+-zeit               Die vergangene und verbleibende Zeit wird abgerufen
+-geld               Kontostand ansehen
+-kaufen             Futter kaufen
+-portionen          Futterportionen anzeigen
+-sprich             Tier macht geraeusche
+-zeit seit fuettern Die vergange Zeit seit der letzten Fuetterrung wird ausgegeben
+-leben              Tierarztbesuche Anzeigen beziehungsweise anzeigen wie viele Fische gestorben sind
+
+Befehle nur fuer Hunde:
+-gassi              Hund wird Gassi geführt
+-zeit seit gassi    Vergangene Zeit seit dem letzen Gassi gehen wird ausgegeben
+
+Befehle nur fuer Katzen:
+-streicheln         Katze wird gestreichelt
+-zeit seit streicheln: Vergangene Zeit seit dem letzen streicheln wird ausgegeben
+
+Befehle nur fuer Fische:
+-wasser wechseln    Aquriumwasser wird gewechselt
+-zeit seit wasser wechseln: Vergangene Zeit seit dem letzen Mal Wasser wechseln wird abgerufen
