@@ -59,7 +59,7 @@ Alle moeglichen Befehle:
 -leben              Tierarztbesuche Anzeigen beziehungsweise anzeigen wie viele Fische gestorben sind
 
 Befehle nur fuer Hunde:
--gassi              Hund wird Gassi geführt
+-gassi              Hund wird Gassi gefuehrt
 -zeit seit gassi    Vergangene Zeit seit dem letzen Gassi gehen wird ausgegeben
 
 Befehle nur fuer Katzen:
