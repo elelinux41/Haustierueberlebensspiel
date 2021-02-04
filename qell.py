@@ -161,7 +161,7 @@ class TierFisch(Tier):
     def keineaktion(self):
         self.lebt = False
         self.todesursache = 'erstickt'
-        delf.tot()
+        self.tot()
         print('Da du in deinem Aquarium nicht das Wasser gewechselt hast, sind deine Fische erstickt.')
     def tot(self):
         print('Seltsam, deine Fische schwimmen mit dem Bauch an der Wasseroberfläche.')
