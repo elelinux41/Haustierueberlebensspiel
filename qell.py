@@ -349,7 +349,7 @@ def modus1():
                 def änderung9():
                     def speichern0():
                         nonlocal tier4
-                        datei = open('zeit.txt','w')
+                        datei = open('tier.txt','w')
                         datei.write(tier4)
                         datei.close()
                     tier4 = input('Soll dein Standardtier ein Hund(h), eine Katze(k) oder ein Fisch(f) sein: ')
