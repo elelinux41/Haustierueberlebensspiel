@@ -14,6 +14,7 @@ folgende Befehle kannst du eingeben:
 -benutzerdefiniert(b):   Du kannst festlegen wie dein Tier heisst, wie lange du dein Tier betreuen will 
                             und welche Art von Tier du berteuen willst, solltest du keinen Namen eingeben,
                             wird ein Zufaelliger gewaehlt
+-zufaelig(z)             Alle Einstellungen werden rein zufaelig gewaelt
 -aus(a):                 Das Spiel wird abgebrochen
 -handbuch(t):            Dir wird das Handbuch angezeigt
 -einstellungen(e):       Du kannst die Standardeinstellungen ändern
