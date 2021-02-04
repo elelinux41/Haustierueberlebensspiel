@@ -307,6 +307,12 @@ def modus1():
                 datei = open('tier.txt','w')
                 datei.write('h')
                 datei.close()
+                datei = open('zeit.txt','w')
+                datei.write('186')
+                datei.close()
+                datei = open('strt.txt','w')
+                datei.write('1')
+                datei.close()
                 modus1()
             elif änderung == 'name' or änderung == 'n':
                 def änderung7():
