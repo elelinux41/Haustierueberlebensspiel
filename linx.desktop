@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Application
-Exec=python3.9 qell.py
-Name=Hautierüberlebensspiel
-Terminal=True
-Icon=logo.png
