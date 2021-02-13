@@ -2,7 +2,6 @@
 import random
 class Tier():
     def __init__(self,name,zeitraum):
-        self.name = name.title()
         self.zeitraum = zeitraum
         self.zeitseitfüttern = 2
         self.tierarzt = 0
