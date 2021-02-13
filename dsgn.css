@@ -1,8 +1,0 @@
-html {font-family:Calibri Light, Calibri;}
-h1 {text-align:center;}
-div,img {float:left;}
-h3 {font-weight:bold;}
-div{line-height:80%;}
-@media only screen and (max-width:500pt) {
-	img {width:100%;}
-}
